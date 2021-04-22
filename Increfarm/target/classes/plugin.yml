@@ -1,0 +1,11 @@
+name: Increfarm
+version: 0.1
+main: me.pjr8.Main
+author: pjr8
+softdepend: [HolographicDisplays, ProtocolLib]
+api-version: 1.16
+commands:
+  test:
+    description: Test
+  farm:
+    description: farm

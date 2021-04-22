@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Increfarm">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="Increfarm.jar">
+      <element id="module-output" name="Increfarm" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.12.2/jackson-annotations-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.12.2/jackson-core-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.12.2/jackson-databind-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.12.2/jackson-dataformat-yaml-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
